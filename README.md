@@ -20,6 +20,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Este é o meu mais recente trabalho, uma calculadora de IMC.
+Este é o meu mais recente trabalho.
 
 - [Acesse o projeto finalizado, online](https://cards-html-css-js.vercel.app/)
